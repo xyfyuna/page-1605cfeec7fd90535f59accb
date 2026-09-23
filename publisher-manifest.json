@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "75bbb6a649d9e364929b1610",
+  "owner": "xyfyuna",
+  "repo": "page-1605cfeec7fd90535f59accb",
+  "title": "WeGo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1605cfeec7fd90535f59accb",
+      "a": "WeGo",
+      "b": "2027最新官网",
+      "entity": "WeGo",
+      "brand": "WeGo",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5ed9df8ca216fb175f93b5a373e9dc398f21931ebf7ee693e351bd61f91585ae",
+      "content": {
+        "primary_entity": "WeGo",
+        "keyword1": "WeGo",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，按文档导入订阅信息即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "了解套餐差异后，按设备数量与流量需求选定版本，导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别支持 3 台、5 台和 20 台设备同时在线。旗舰版含 IPLC 专线优化游戏延迟，团队版提供 VIP 高带宽节点与专属客户经理，按年付更划算。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，先理清这三件事。",
+          "AI_FEATURES_TITLE": "订阅前值得关注的要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备与 100GB 月流量适合个人日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备同时在线并含 IPLC 专线游戏优化。",
+          "AI_FEATURE_TEXT_3": "团队版可 20 台设备共享 1000GB 流量，适合小团队协作。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三个步骤完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "WeGo 提供基础版、旗舰版与团队版三档海外加速套餐，依据设备数量和每月流量选择合适版本，按年付可享更低月均价格。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备需求",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备 100GB 月流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备 VIP 高带宽",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付价格分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间确定版本。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量、流量额度和节点类型是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅配置，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "WeGo 多设备加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "WeGo 三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "区别集中在月流量、同时在线设备数和节点类型。基础版每月 100GB、3 台设备、普通线路；旗舰版每月 300GB、5 台设备，增加 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_QUESTION_2": "按年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_2": "年付价格分别为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比按月支付可减少两个月左右的支出，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_3": "一台设备可以同时登录多个套餐吗？",
+          "AI_FAQ_ANSWER_3": "同一订阅链接允许在套餐限定的设备数量内同时在线，超出数量会导致新设备无法连接。需要在多台设备间切换时，可先在旧设备上断开连接再登录新设备。",
+          "AI_FAQ_QUESTION_4": "如何为不同系统选择客户端？",
+          "AI_FAQ_ANSWER_4": "Windows 和 macOS 可选择桌面客户端，Android 与 iOS 使用对应移动端应用。安装后按客户端文档导入订阅链接，节点列表会自动同步，无需手动逐条添加。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量达到套餐上限后，节点连接会暂停，待下个计费周期自动恢复。若长期不够用，可以考虑升级到更高一档套餐，或切换到年付方案以获得更充裕的额度。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gg0ljjrqo0b.org",
+    "host": "xn--yfrw1gg0ljjrqo0b.org"
+  },
+  "file_hashes": {
+    "index.html": "c7a3556d956377bf172e436a1daec9ffc6b2303b61589f403f773526652a45c6",
+    "sitemap.xml": "26b66e46209e4f31b9e32588fe8728a7de3df6c8fa31ecabf05df8c2fd063e0e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0952bbca6f39b7452f87b8762f287c5706e9443c2ddd47544b2da30e77f2f1ea",
+    "robots.txt": "e6f1cf9bcb750c4628b15bb1b07136a10bbda8c95c8d2ec0954f4e6e86796c26",
+    "ea1af9c3159a5f6dab32657babefcd61.txt": "5b86420ae59cf2bf0070a18f2230b4e04d98a190dddb61ec89ebe03a3a2e8acd"
+  },
+  "revision": "4951a6a29441c03fdfa5c0bcf936ba28cd95aff53ade14147acc431cc2bbe335"
+}
